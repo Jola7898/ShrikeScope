@@ -1,0 +1,7 @@
+{
+  "name": "ShrikeDisplay",
+  "version": "0.1.0",
+  "description": "Small helpers for the ST7789 TFT on the Shrike-Fi. Expects TFT_eSPI to be set up with build flags (see display.ini).",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
